@@ -1,5 +1,1 @@
-Basic c# login page
-
-username: randomperson
-
-password: 12345
+C# projects made for fun
